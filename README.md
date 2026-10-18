@@ -282,31 +282,6 @@ Before running the application, ensure the following are installed:
 
 ---
 
-## Preloaded Demo Credentials
-
-The database script provides ready-to-use testing accounts:
-
-### 1. System Administrator Account
-| Attribute | Value |
-|:---|:---|
-| **Portal URL** | `/adminlogin.jsp` |
-| **Email** | `admin@carrental.com` |
-| **Password** | `Admin@123` |
-| **Permissions** | Full administrative rights (Catalog, Orders, Users, System Admins) |
-
-### 2. Sample Customer Accounts
-All pre-seeded customer accounts follow the password pattern: `<Firstname>@123` *(First letter capitalized)*:
-
-| Name | Email | Password | Location |
-|:---|:---|:---|:---|
-| Aarav Sharma | `aarav.sharma@gmail.com` | `Aarav@123` | Mumbai, Maharashtra |
-| Priya Patel | `priya.patel@gmail.com` | `Priya@123` | Ahmedabad, Gujarat |
-| Rohan Verma | `rohan.verma@gmail.com` | `Rohan@123` | Gurugram, Haryana |
-| Sneha Reddy | `sneha.reddy@gmail.com` | `Sneha@123` | Hyderabad, Telangana |
-| Vikram Singh | `vikram.singh@gmail.com` | `Vikram@123` | Jaipur, Rajasthan |
-
----
-
 ## Core Application Endpoints
 
 | Resource URL | Target Component | Purpose |
